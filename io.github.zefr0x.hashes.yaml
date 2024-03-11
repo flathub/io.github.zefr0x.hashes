@@ -1,6 +1,6 @@
 id: io.github.zefr0x.hashes
 runtime: org.gnome.Platform
-runtime-version: "45"
+runtime-version: '45'
 sdk: org.gnome.Sdk
 command: hashes
 finish-args:
@@ -16,8 +16,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/zefr0x/hashes
-        tag: v1.0.0
-        commit: 5f90e850baa5d77a84066b92c3e757465da65b07
+        tag: v1.0.1
+        commit: 61f42e2381fc24348300c1583931f2c6fb2dd710
         x-checker-data:
           type: git
           version-scheme: semantic
