@@ -16,8 +16,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/zefr0x/hashes
-        tag: v1.0.1
-        commit: 61f42e2381fc24348300c1583931f2c6fb2dd710
+        tag: v1.1.0
+        commit: cf4c8336758077a192e5c4ef44b432609442f01f
         x-checker-data:
           type: git
           version-scheme: semantic
