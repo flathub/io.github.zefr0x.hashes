@@ -36,8 +36,8 @@ modules:
           packagetype: bdist_wheel
           type: pypi
       - type: file
-        url: https://files.pythonhosted.org/packages/67/91/5474b84e505a6ccc295b2d322d90ff6aa0746745717839ee0c5fb4fdcceb/rich-13.9.2-py3-none-any.whl
-        sha256: 8c82a3d3f8dcfe9e734771313e606b39d8247bb6b826e196f4914b333b743cf1
+        url: https://files.pythonhosted.org/packages/9a/e2/10e9819cf4a20bd8ea2f5dabafc2e6bf4a78d6a0965daeb60a4b34d1c11f/rich-13.9.3-py3-none-any.whl
+        sha256: 9836f5096eb2172c9e77df411c1b009bace4193d6a481d534fea75ebba758283
         x-checker-data:
           name: rich
           packagetype: bdist_wheel
