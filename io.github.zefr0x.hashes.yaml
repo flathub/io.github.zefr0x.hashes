@@ -1,6 +1,6 @@
 id: io.github.zefr0x.hashes
 runtime: org.gnome.Platform
-runtime-version: '47'
+runtime-version: '48'
 sdk: org.gnome.Sdk
 command: hashes
 finish-args:
